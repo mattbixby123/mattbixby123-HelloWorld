@@ -1,6 +1,6 @@
 public class Lab {
     /**
-     * TODO: Change this method so that it returns "Hello, world!"
+     * TODO: Change this method so that it returns "Hello, world!" - test
      *
      * This method currently contains the line:
      * return "change me";
